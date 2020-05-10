@@ -177,7 +177,7 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Specialisterne | Conferencing
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -276,7 +276,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: Specialisterne Australia  is passionate about enabling careers for neuro-divergent individuals. This space is for  training, conferencing, support and our assessment programs. You can create your own rooms to host sessions, or join other rooms using a short and convenient link."
+    about: Specialisterne Australia  is passionate about enabling careers for neuro-divergent individuals. This space is for  training, conferencing, support and our assessment programs. You can create your own rooms to host sessions, or join other rooms using a short and convenient link.
     welcome: Welcome to the Specialisterne Australia Conference and Training Rooms.
     video: Watch a short video about what we do on youtube
     upgrade: Show me how to upgrade to 2.0!
